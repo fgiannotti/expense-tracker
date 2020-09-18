@@ -1,5 +1,5 @@
-import React from 'react'
-import { Col, FormGroup, Label,Input,Button,BTForm } from 'reactstrap'
+import React from 'react';
+import { BTForm,Col, FormGroup, Label,Input,Button } from 'reactstrap';
 
 const Form = () => (
     <BTForm style={{margin:10}}>
